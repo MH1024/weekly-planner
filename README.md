@@ -1,4 +1,5 @@
 # WeeklyPlanner
+[![Build Status](https://travis-ci.org/MH1024/weekly-planner.svg?branch=master)](https://travis-ci.org/MH1024/weekly-planner)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
