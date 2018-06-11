@@ -25,6 +25,7 @@ after_success:
   - firebase deploy --token $FIREBASE_CI_TOKEN
 
 notifications:
+  slack: xiaochengxu1926:jCi34fSgkIcrPtRUKpzsXIIv
   email:
     on_failure: change
     on_success: change
